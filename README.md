@@ -1,1 +1,1 @@
-# JavaLabAssignment-1
+# StudentRecordManagementSystem--Java-Lab-Assignment1
